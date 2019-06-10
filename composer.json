@@ -1,9 +1,9 @@
 {
-    "name": "saikiran/geohash",
+    "name": "craastad/geohash",
     "description": "Geohash Algorithm to encode geographic coordinates to a string of letters and digits",
     "license": "MIT",
     "keywords": ["geohash", "php"],
-    "homepage" : "https://github.com/skthon/geohash",
+    "homepage" : "https://github.com/craastad/geohash",
     "authors": [
         {
             "name": "Saikiran Ch",
